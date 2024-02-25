@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "test_dbs",
+  "info": {
+    "singularName": "test-db",
+    "pluralName": "test-dbs",
+    "displayName": "test_db"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "test_test": {
+      "type": "string"
+    }
+  }
+}
