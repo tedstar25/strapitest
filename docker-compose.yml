@@ -31,7 +31,7 @@ services:
       - ./public/uploads:/opt/app/public/uploads
       - ./data:/opt/app/public/data #example
     ports:
-      - "1337:1337"
+      - "4051:1337"
 
 
 volumes:
